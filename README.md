@@ -1,6 +1,6 @@
 # Hi there, I'm Nikita aka AmsTaFFix
 
-## Who am I?
+## Who I am
 
 - Software Engineer at my heart (since 2011)
 - Head of Backend Development at [Citilink LLC](https://www.citilink.ru) (since 2019)
