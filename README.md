@@ -8,7 +8,6 @@
   - [Solvery](https://solvery.io/ru/mentor/amstaffix)
   - [GetMentor](https://getmentor.dev/mentor/nikita-sapogov-576)
   - [Habr.Career](https://career.habr.com/amstaffix)
-  - ...
 - Head of [Highload Architect](https://otus.ru/lessons/highloadarchitect/) course at [OTUS](https://otus.ru/)
 
 ## Publications
