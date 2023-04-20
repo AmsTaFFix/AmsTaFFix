@@ -4,7 +4,7 @@
 
 - Software Engineer at my heart (since 2011)
 - Head of Backend Development at [Citilink LLC](https://www.citilink.ru) (since 2019)
-- Mentor/Consultant (190+ sessions) at 
+- Mentor/Consultant (200+ sessions) at 
   - [Solvery](https://solvery.io/ru/mentor/amstaffix)
   - [GetMentor](https://getmentor.dev/mentor/nikita-sapogov-576)
   - [Habr.Career](https://career.habr.com/amstaffix)
