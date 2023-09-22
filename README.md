@@ -20,6 +20,7 @@
 - [Badoo Meetup - «Анализируем код с PHPStan»](https://youtu.be/kiw3HscOrk8)
 - [Evrone Meetup - Graceful Shutdown или как красиво уйти](https://www.youtube.com/watch?v=ASiF-AH7GFc)
 - [Когда нужны микросервисы, а когда монолиты // Демо-занятие курса «Highload Architect»](https://www.youtube.com/watch?v=3tiqsqzFCOI)
+- [Основы протокола HTTP // Демо-занятие курса «Highload Architect»](https://www.youtube.com/watch?v=HXVxetXo28c)
 
 ## How to reach me
 - [Telegram](https://t.me/amstaffix)
