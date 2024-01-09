@@ -3,7 +3,7 @@
 ## Who I am
 
 - Software Engineer at my heart (since 2011)
-- Head of Backend Development at [Citilink LLC](https://www.citilink.ru) (since 2019)
+- Head of Monitoring Department at [OZON Tech](https://ozon.tech/) (since 2023)
 - Mentor/Consultant (200+ sessions) at 
   - [Solvery](https://solvery.io/ru/mentor/amstaffix)
   - [GetMentor](https://getmentor.dev/mentor/nikita-sapogov-576)
@@ -29,4 +29,4 @@
 - [E-Mail](mailto:amstaffix@gmail.com)
 
 ## Technologies
-Golang, Lua, Tarantool, PostgreSQL, Kafka, MSA, Redis, Memcached, Docker
+Golang, Lua, Tarantool, PostgreSQL, Kafka, MSA, Redis, Memcached, Docker, Thanos, K8S, Grafana, Prometheus, QBEC
