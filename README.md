@@ -3,7 +3,7 @@
 ## Who I am
 
 - Software Engineer at my heart (since 2011)
-- Head of Monitoring Department at [OZON Tech](https://ozon.tech/) (since 2023)
+- Head of DBaaS at [Avito](https://avito.tech/) (since 2024)
 - Mentor/Consultant (200+ sessions) at 
   - [Solvery](https://solvery.io/ru/mentor/amstaffix)
   - [GetMentor](https://getmentor.dev/mentor/nikita-sapogov-576)
