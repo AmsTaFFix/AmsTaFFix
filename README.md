@@ -9,7 +9,6 @@
   - [GetMentor](https://getmentor.dev/mentor/nikita-sapogov-576)
   - [Habr.Career](https://career.habr.com/amstaffix)
   - [Meander](https://meander.so/m/AmsTaFFix)
-- Head of [Highload Architect](https://otus.ru/lessons/highloadarchitect/) course at [OTUS](https://otus.ru/)
 
 ## Publications
 ### Articles
@@ -29,4 +28,4 @@
 - [E-Mail](mailto:amstaffix@gmail.com)
 
 ## Technologies
-Golang, Lua, Tarantool, PostgreSQL, Kafka, MSA, Redis, Memcached, Docker, Thanos, K8S, Grafana, Prometheus, QBEC
+Golang, Lua, Tarantool, PostgreSQL, Kafka, MSA, Redis, Memcached, Docker, Thanos, K8S, Grafana, Prometheus, QBEC,
