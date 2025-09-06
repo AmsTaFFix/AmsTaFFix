@@ -10,6 +10,12 @@
   - [Habr.Career](https://career.habr.com/amstaffix)
   - [Meander](https://meander.so/m/AmsTaFFix)
 
+## [World of Warcraft](https://worldofwarcraft.blizzard.com/en-gb/) 
+
+I have made a lot of stuff for [World of Warcraft](https://worldofwarcraft.blizzard.com/en-gb/) plugins developers, 
+I have made separate organization with name [WoW-U](https://github.com/WoW-U), 
+please go there and check [README](https://github.com/WoW-U) and/or [repositories](https://github.com/orgs/WoW-U/repositories).  
+
 ## Publications
 ### Articles
 - [Кейс: от базовых навыков в HTML до менторинга](https://tproger.ru/articles/kejs-ot-bazovyh-navykov-v-html-do-mentoringa/)
