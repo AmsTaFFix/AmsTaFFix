@@ -8,7 +8,7 @@
   - [Solvery](https://solvery.io/ru/mentor/amstaffix)
   - [GetMentor](https://getmentor.dev/mentor/nikita-sapogov-576)
   - [Habr.Career](https://career.habr.com/amstaffix)
-  - [Meander](https://meander.so/m/AmsTaFFix)
+  - [Mentorcruise](https://mentorcruise.com/mentor/nikitasapogov/)
 
 ## [World of Warcraft](https://worldofwarcraft.blizzard.com/en-gb/) 
 
@@ -32,6 +32,7 @@ please go there and check [README](https://github.com/WoW-U) and/or [repositorie
 - [Telegram](https://t.me/amstaffix)
 - [LinkedIn](https://www.linkedin.com/in/nikita-sapogov-94790bb4/)
 - [E-Mail](mailto:amstaffix@gmail.com)
+- [Discord](https://discord.com/users/224628871633305611)
 
 ## Technologies
-Golang, Lua, Tarantool, PostgreSQL, Kafka, MSA, Redis, Memcached, Docker, Thanos, K8S, Grafana, Prometheus, QBEC,
+Golang, Lua, Tarantool, PostgreSQL, Kafka, MSA, Redis, Memcached, Docker, Thanos, K8S, Grafana, Prometheus, QBEC
